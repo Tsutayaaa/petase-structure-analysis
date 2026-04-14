@@ -1,0 +1,13 @@
+receptor = /gpfs/work/bio/shuleihe23/docking/receptor_out.pdbqt
+ligand = /gpfs/work/bio/shuleihe23/docking/BHET.pdbqt
+
+center_x = -4.45
+center_y = 25.34
+center_z = -25.86
+
+size_x = 22
+size_y = 22
+size_z = 22
+
+exhaustiveness = 8
+num_modes = 10

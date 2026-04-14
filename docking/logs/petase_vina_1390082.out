@@ -1,0 +1,5 @@
+[INFO] Job started at: Tue Apr 14 18:36:31 CST 2026
+[INFO] Running on node: cpu8358n11
+[INFO] Working directory: /gpfs/work/bio/shuleihe23/docking
+[INFO] Using vina at: /gpfs/spack/opt/linux-rocky8-icelake/gcc-8.5.0/autodock-vina-1.2.5-ugdue5u4umybehzrknegujoyvah5oxkp/bin/vina
+AutoDock Vina v1.2.5
